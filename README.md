@@ -1,4 +1,4 @@
-# LearnZen 權限控制失效漏洞
+# LearnZen 權限控制失效漏洞 (FIXED
 
 ## 摘要
 
